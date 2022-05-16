@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\visual studio projects\PKR_5.5\Source.cpp(325,20): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\visual studio projects\PKR_5.5\Source.cpp(321,7): warning C4101: b: неиспользованная локальная переменная
+D:\visual studio projects\PKR_5.5\Source.cpp(564,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  PKR_5.5.vcxproj -> D:\visual studio projects\PKR_5.5\Debug\PKR_5.5.exe
